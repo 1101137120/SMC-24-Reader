@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<parameter>
+  <p>
+    <name>2 Sec</name>
+    <value>2</value>
+  </p>
+
+  <p>
+    <name>4 Sec</name>
+    <value>4</value>
+  </p>
+
+  <p>
+    <name>6 Sec</name>
+    <value>6</value>
+  </p>
+
+  <p>
+    <name>8 Sec</name>
+    <value>8</value>
+  </p>
+
+  <p>
+    <name>10 Sec</name>
+    <value>10</value>
+  </p>
+
+  <p>
+    <name>12 Sec</name>
+    <value>12</value>
+  </p>
+
+  <p>
+    <name>14 Sec</name>
+    <value>14</value>
+  </p>
+
+  <p>
+    <name>16 Sec</name>
+    <value>16</value>
+  </p>
+
+  <p>
+    <name>18 Sec</name>
+    <value>18</value>
+  </p>
+
+  <p>
+    <name>20 Sec</name>
+    <value>20</value>
+  </p>
+
+  <p>
+    <name>22 Sec</name>
+    <value>22</value>
+  </p>
+
+  <p>
+    <name>24 Sec</name>
+    <value>24</value>
+  </p>
+
+  <p>
+    <name>26 Sec</name>
+    <value>26</value>
+  </p>
+
+  <p>
+    <name>28 Sec</name>
+    <value>28</value>
+  </p>
+
+  <p>
+    <name>30 Sec</name>
+    <value>30</value>
+  </p>
+
+</parameter>
+
+

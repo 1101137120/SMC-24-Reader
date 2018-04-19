@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<parameter>
+  <p>
+    <name>OFF</name>
+    <value>0</value>
+  </p>
+
+  <p>
+    <name>ON</name>
+    <value>1</value>
+  </p>
+  
+</parameter>
+
+

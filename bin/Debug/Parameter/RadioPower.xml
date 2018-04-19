@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<parameter>
+  <p>
+    <name>0 dBm</name>
+    <value>0</value>
+  </p>
+
+  <p>
+    <name>-3 dBm</name>
+    <value>1</value>
+  </p>
+
+  <p>
+    <name>-6 dBm</name>
+    <value>2</value>
+  </p>
+
+  <p>
+    <name>-12 dBm</name>
+    <value>3</value>
+  </p>
+
+  <p>
+    <name>-30 dBm</name>
+    <value>4</value>
+  </p>
+
+</parameter>
+
+

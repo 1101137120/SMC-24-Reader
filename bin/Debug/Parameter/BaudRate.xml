@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<parameter>
+  <p>
+    <name>9600</name>
+    <value>0</value>
+  </p>
+
+  <p>
+    <name>14400</name>
+    <value>1</value>
+  </p>
+
+  <p>
+    <name>28800</name>
+    <value>2</value>
+  </p>
+
+  <p>
+    <name>19200</name>
+    <value>3</value>
+  </p>
+
+  <p>
+    <name>38400</name>
+    <value>4</value>
+  </p>
+
+  <p>
+    <name>57600</name>
+    <value>5</value>
+  </p>
+
+  <p>
+    <name>115200</name>
+    <value>6</value>
+  </p>
+
+  <p>
+    <name>4800</name>
+    <value>7</value>
+  </p>
+
+
+</parameter>
+
+
+

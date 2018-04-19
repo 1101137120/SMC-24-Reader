@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<parameter>
+  <p>
+    <name>W26</name>
+    <value>0</value>
+  </p>
+
+  <p>
+    <name>W34</name>
+    <value>1</value>
+  </p>
+
+  <p>
+    <name>W42</name>
+    <value>2</value>
+  </p>
+</parameter>
+
+

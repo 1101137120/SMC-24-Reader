@@ -1,0 +1,15 @@
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\bin\Release\SMC-24-Reader.exe
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\bin\Release\SMC-24-Reader.pdb
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\bin\Release\SMC_R01_Communication.dll
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\bin\Release\SMC_R01_Communication.pdb
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Release\MainWindow.baml
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Release\MainWindow.g.cs
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Release\App.g.cs
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Release\SMC-24-Reader_MarkupCompile.cache
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Release\SMC-24-Reader.g.resources
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Release\SMC_24_Reader.Properties.Resources.resources
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Release\SMC-24-Reader.exe
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Release\SMC-24-Reader.pdb

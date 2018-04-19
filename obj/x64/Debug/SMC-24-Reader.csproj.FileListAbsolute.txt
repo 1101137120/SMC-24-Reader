@@ -1,0 +1,32 @@
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\x64\Debug\SMC-24-Reader.exe
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\x64\Debug\SMC-24-Reader.pdb
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\x64\Debug\SMC-24-Lib.dll
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\x64\Debug\SMC_R01_Communication.dll
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader.csprojResolveAssemblyReference.cache
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Debug\MainWindow.baml
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Debug\App.g.cs
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader_MarkupCompile.cache
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader.g.resources
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Debug\SMC_24_Reader.Properties.Resources.resources
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader.csproj.GenerateResource.Cache
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader.exe
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader.pdb
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader.csproj.CoreCompileInputs.cache
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\bin\x64\Debug\SMC-24-Reader.exe
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\bin\x64\Debug\SMC-24-Reader.pdb
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\bin\x64\Debug\SMC-24-Lib.dll
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\bin\x64\Debug\SMC_R01_Communication.dll
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader.csprojResolveAssemblyReference.cache
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x64\Debug\MainWindow.baml
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x64\Debug\MainWindow.g.cs
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x64\Debug\App.g.cs
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader_MarkupCompile.cache
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader.g.resources
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x64\Debug\SMC_24_Reader.Properties.Resources.resources
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader.csproj.GenerateResource.Cache
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader.csproj.CoreCompileInputs.cache
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader.exe
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x64\Debug\SMC-24-Reader.pdb

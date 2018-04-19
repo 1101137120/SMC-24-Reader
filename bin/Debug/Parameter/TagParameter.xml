@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<parameter>
+  <p>
+    <name>Channel</name>
+    <address>8</address>
+    <file>Channel.xml</file>
+    <bytes>1</bytes>
+  </p>
+
+  <p>
+    <name>Data Rate</name>
+    <address>9</address>
+    <file>RadioDataRate.xml</file>
+    <bytes>1</bytes>
+  </p>
+
+  <p>
+    <name>Power</name>
+    <address>10</address>
+    <file>RadioPower.xml</file>
+    <bytes>1</bytes>
+  </p>
+
+  <p>
+    <name>Sleep time</name>
+    <address>11</address>
+    <file>TagSleepTime.xml</file>
+    <bytes>1</bytes>
+  </p>
+
+  <p>
+    <name>LED Blinking</name>
+    <address>12</address>
+    <file>TagLedBlink.xml</file>
+    <bytes>1</bytes>
+  </p>
+
+</parameter>
+
+

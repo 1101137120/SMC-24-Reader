@@ -1,0 +1,13 @@
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\x64\Release\SMC-24-Reader.exe
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\x64\Release\SMC-24-Lib.dll
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\x64\Release\SMC_R01_Communication.dll
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Release\SMC-24-Reader.csprojResolveAssemblyReference.cache
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Release\MainWindow.baml
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Release\MainWindow.g.cs
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Release\App.g.cs
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Release\SMC-24-Reader_MarkupCompile.cache
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Release\SMC-24-Reader.g.resources
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Release\SMC_24_Reader.Properties.Resources.resources
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Release\SMC-24-Reader.csproj.GenerateResource.Cache
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x64\Release\SMC-24-Reader.exe

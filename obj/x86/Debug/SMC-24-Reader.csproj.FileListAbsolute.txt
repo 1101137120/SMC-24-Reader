@@ -1,0 +1,153 @@
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\bin\Debug\SMC-24-Reader.exe
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\bin\Debug\SMC-24-Reader.pdb
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\bin\Debug\SMC_R01_Communication.dll
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\bin\Debug\SMC_R01_Communication.pdb
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Debug\MainWindow.baml
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Debug\MainWindow.g.cs
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Debug\App.g.cs
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader_MarkupCompile.cache
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.g.resources
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Debug\SMC_24_Reader.Properties.Resources.resources
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.exe
+D:\Project\LowCostRFID\PC\SMC-24-Reader\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.pdb
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.exe
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.pdb
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\bin\Debug\SMC-24-Reader.exe
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\bin\Debug\SMC-24-Reader.pdb
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\bin\Debug\SMC_R01_Communication.dll
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\bin\Debug\SMC_R01_Communication.pdb
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\MainWindow.baml
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\MainWindow.g.cs
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\App.g.cs
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader_MarkupCompile.cache
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.g.resources
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC_24_Reader.Properties.Resources.resources
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\LowCostRFID\PC\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\2.4G PC C#\2.4 pc\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.exe
+D:\2.4G PC C#\2.4 pc\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.pdb
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.exe
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.pdb
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\bin\Debug\SMC-24-Reader.exe
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\bin\Debug\SMC-24-Reader.pdb
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\bin\Debug\SMC_R01_Communication.dll
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\bin\Debug\SMC_R01_Communication.pdb
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csprojResolveAssemblyReference.cache
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\MainWindow.baml
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\MainWindow.g.cs
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\App.g.cs
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader_MarkupCompile.cache
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.g.resources
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC_24_Reader.Properties.Resources.resources
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-ARB24-V3000\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csproj.GenerateResource.Cache
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\bin\Debug\SMC-24-Reader.exe
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\bin\Debug\SMC-24-Reader.pdb
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\bin\Debug\Newtonsoft.Json.dll
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\bin\Debug\SMC_R01_Communication.dll
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\bin\Debug\SMC_R01_Communication.pdb
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csprojResolveAssemblyReference.cache
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\obj\x86\Debug\MainWindow.baml
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\obj\x86\Debug\MainWindow.g.cs
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\obj\x86\Debug\App.g.cs
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader_MarkupCompile.cache
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.g.resources
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\obj\x86\Debug\SMC_24_Reader.Properties.Resources.resources
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csproj.GenerateResource.Cache
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.exe
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.pdb
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.exe
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.pdb
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\bin\Debug\SMC-24-Reader.exe
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\bin\Debug\SMC-24-Reader.pdb
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\bin\Debug\Newtonsoft.Json.dll
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\bin\Debug\SMC_R01_Communication.dll
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\bin\Debug\SMC_R01_Communication.pdb
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csprojResolveAssemblyReference.cache
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\obj\x86\Debug\MainWindow.baml
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\obj\x86\Debug\MainWindow.g.cs
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\obj\x86\Debug\App.g.cs
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader_MarkupCompile.cache
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.g.resources
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\obj\x86\Debug\SMC_24_Reader.Properties.Resources.resources
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csproj.GenerateResource.Cache
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.exe
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.pdb
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\bin\Debug\SMC-24-Reader.exe
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\bin\Debug\SMC-24-Reader.pdb
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\bin\Debug\Newtonsoft.Json.dll
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\bin\Debug\SMC-24-Lib.dll
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\bin\Debug\SMC_R01_Communication.dll
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csprojResolveAssemblyReference.cache
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\obj\x86\Debug\MainWindow.baml
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\obj\x86\Debug\MainWindow.g.cs
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\obj\x86\Debug\App.g.cs
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader_MarkupCompile.cache
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.g.resources
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\obj\x86\Debug\SMC_24_Reader.Properties.Resources.resources
+D:\2.4G PC C#\2.4G Reader-Bill\SMC-2.4G-ReadTagID-DB_main\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csproj.GenerateResource.Cache
+C:\Users\abby\Desktop\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.exe
+C:\Users\abby\Desktop\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.pdb
+C:\Users\abby\Desktop\SMC-24-Reader\bin\Debug\SMC-24-Reader.exe
+C:\Users\abby\Desktop\SMC-24-Reader\bin\Debug\SMC-24-Reader.pdb
+C:\Users\abby\Desktop\SMC-24-Reader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abby\Desktop\SMC-24-Reader\bin\Debug\SMC-24-Lib.dll
+C:\Users\abby\Desktop\SMC-24-Reader\bin\Debug\SMC_R01_Communication.dll
+C:\Users\abby\Desktop\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csprojResolveAssemblyReference.cache
+C:\Users\abby\Desktop\SMC-24-Reader\obj\x86\Debug\MainWindow.baml
+C:\Users\abby\Desktop\SMC-24-Reader\obj\x86\Debug\MainWindow.g.cs
+C:\Users\abby\Desktop\SMC-24-Reader\obj\x86\Debug\App.g.cs
+C:\Users\abby\Desktop\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader_MarkupCompile.cache
+C:\Users\abby\Desktop\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.g.resources
+C:\Users\abby\Desktop\SMC-24-Reader\obj\x86\Debug\SMC_24_Reader.Properties.Resources.resources
+C:\Users\abby\Desktop\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csproj.GenerateResource.Cache
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\Debug\SMC-24-Reader.exe
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\Debug\SMC-24-Reader.pdb
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\Debug\SMC-24-Lib.dll
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\bin\Debug\SMC_R01_Communication.dll
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x86\Debug\MainWindow.baml
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x86\Debug\App.g.cs
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader_MarkupCompile.cache
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.g.resources
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x86\Debug\SMC_24_Reader.Properties.Resources.resources
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csproj.GenerateResource.Cache
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.exe
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.pdb
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csprojResolveAssemblyReference.cache
+C:\Users\ihoinserv\Desktop\COPY\bin\Debug\SMC-24-Reader.exe
+C:\Users\ihoinserv\Desktop\COPY\bin\Debug\SMC-24-Reader.pdb
+C:\Users\ihoinserv\Desktop\COPY\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ihoinserv\Desktop\COPY\bin\Debug\SMC-24-Lib.dll
+C:\Users\ihoinserv\Desktop\COPY\bin\Debug\SMC_R01_Communication.dll
+C:\Users\ihoinserv\Desktop\COPY\obj\x86\Debug\SMC-24-Reader.csprojResolveAssemblyReference.cache
+C:\Users\ihoinserv\Desktop\COPY\obj\x86\Debug\MainWindow.baml
+C:\Users\ihoinserv\Desktop\COPY\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ihoinserv\Desktop\COPY\obj\x86\Debug\App.g.cs
+C:\Users\ihoinserv\Desktop\COPY\obj\x86\Debug\SMC-24-Reader_MarkupCompile.cache
+C:\Users\ihoinserv\Desktop\COPY\obj\x86\Debug\SMC-24-Reader.g.resources
+C:\Users\ihoinserv\Desktop\COPY\obj\x86\Debug\SMC_24_Reader.Properties.Resources.resources
+C:\Users\ihoinserv\Desktop\COPY\obj\x86\Debug\SMC-24-Reader.csproj.GenerateResource.Cache
+C:\Users\ihoinserv\Desktop\COPY\obj\x86\Debug\SMC-24-Reader.exe
+C:\Users\ihoinserv\Desktop\COPY\obj\x86\Debug\SMC-24-Reader.pdb
+C:\Users\ihoinserv\Desktop\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csproj.CoreCompileInputs.cache
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\bin\Debug\SMC-24-Reader.exe
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\bin\Debug\SMC-24-Reader.pdb
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\bin\Debug\SMC-24-Lib.dll
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\bin\Debug\SMC_R01_Communication.dll
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csprojResolveAssemblyReference.cache
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x86\Debug\MainWindow.baml
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x86\Debug\App.g.cs
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader_MarkupCompile.cache
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.g.resources
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x86\Debug\SMC_24_Reader.Properties.Resources.resources
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csproj.GenerateResource.Cache
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.csproj.CoreCompileInputs.cache
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.exe
+C:\Users\ihoinserv\Desktop\2.4G System _180320DEMO\SMC-24-Reader\obj\x86\Debug\SMC-24-Reader.pdb

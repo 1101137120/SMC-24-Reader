@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<parameter>
+  <p>
+    <name>1M bps</name>
+    <value>0</value>
+  </p>
+
+  <p>
+    <name>2M bps</name>
+    <value>1</value>
+  </p>
+
+  <p>
+    <name>250K bps</name>
+    <value>2</value>
+  </p>
+  
+</parameter>
+

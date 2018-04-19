@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<parameter>
+  <p>
+    <name>HID Card Mode</name>
+    <address>1</address>
+    <file>OnOff.xml</file>
+    <bytes>1</bytes>
+  </p>
+
+  <p>
+    <name>Replace Tag ID Mode</name>
+    <address>2</address>
+    <file>OnOff.xml</file>
+    <bytes>1</bytes>
+  </p>
+  
+  <p>
+    <name>Tag Lost Timer</name>
+    <address>0</address>
+    <file>NewTagStandbyTimer.xml</file>
+    <bytes>1</bytes>
+  </p>
+  
+  <p>
+    <name>Channel</name>
+    <address>8</address>
+    <file>Channel.xml</file>
+    <bytes>1</bytes>
+  </p>
+  
+  <p>
+    <name>Data Rate</name>
+    <address>9</address>
+    <file>RadioDataRate.xml</file>
+    <bytes>1</bytes>
+  </p>
+  
+  <p>
+    <name>Power</name>
+    <address>10</address>
+    <file>RadioPower.xml</file>
+    <bytes>1</bytes>
+  </p>
+  
+  <p>
+    <name>Command waiting time</name>
+    <address>11</address>
+    <file>CommandWaitingTime.xml</file>
+    <bytes>1</bytes>
+  </p>
+  
+  <p>
+    <name>Reader ID</name>
+    <address>16</address>
+    <file>ReaderId.xml</file>
+    <bytes>1</bytes>
+  </p>
+  
+  <p>
+    <name>Baud Rate</name>
+    <address>17</address>
+    <file>BaudRate.xml</file>
+    <bytes>1</bytes>
+  </p>
+  
+  <p>
+    <name>RSSI Threshold</name>
+    <address>18</address>
+    <file>RssiThreshold.xml</file>
+    <bytes>1</bytes>
+  </p>
+
+  <p>
+    <name>Buzzer On/Off</name>
+    <address>19</address>
+    <file>OnOff.xml</file>
+    <bytes>1</bytes>
+  </p>
+
+</parameter>
+

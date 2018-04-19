@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<parameter>
+  <p>
+    <name>2403 MHz</name>
+    <value>3</value>
+  </p>
+
+  <p>
+    <name>2405 MHz</name>
+    <value>5</value>
+  </p>
+
+  <p>
+    <name>2407 MHz</name>
+    <value>7</value>
+  </p>
+
+  <p>
+    <name>2409 MHz</name>
+    <value>9</value>
+  </p>
+
+  <p>
+    <name>2411 MHz</name>
+    <value>11</value>
+  </p>
+
+  <p>
+    <name>2413 MHz</name>
+    <value>13</value>
+  </p>
+
+  <p>
+    <name>2415 MHz</name>
+    <value>15</value>
+  </p>
+
+  <p>
+    <name>2417 MHz</name>
+    <value>17</value>
+  </p>
+
+  <p>
+    <name>2419 MHz</name>
+    <value>19</value>
+  </p>
+
+  <p>
+    <name>2421 MHz</name>
+    <value>21</value>
+  </p>
+
+  <p>
+    <name>2423 MHz</name>
+    <value>23</value>
+  </p>
+
+  <p>
+    <name>2425 MHz</name>
+    <value>25</value>
+  </p>
+
+  <p>
+    <name>2427 MHz</name>
+    <value>27</value>
+  </p>
+
+  <p>
+    <name>2429 MHz</name>
+    <value>29</value>
+  </p>
+
+  <p>
+    <name>2431 MHz</name>
+    <value>31</value>
+  </p>
+
+  <p>
+    <name>2433 MHz</name>
+    <value>33</value>
+  </p>
+
+  <p>
+    <name>2435 MHz</name>
+    <value>35</value>
+  </p>
+
+  <p>
+    <name>2437 MHz</name>
+    <value>37</value>
+  </p>
+
+  <p>
+    <name>2439 MHz</name>
+    <value>39</value>
+  </p>
+
+  <p>
+    <name>2441 MHz</name>
+    <value>41</value>
+  </p>
+
+  <p>
+    <name>2443 MHz</name>
+    <value>43</value>
+  </p>
+
+  <p>
+    <name>2445 MHz</name>
+    <value>45</value>
+  </p>
+
+  <p>
+    <name>2447 MHz</name>
+    <value>47</value>
+  </p>
+
+  <p>
+    <name>2449 MHz</name>
+    <value>49</value>
+  </p>
+
+  <p>
+    <name>2451 MHz</name>
+    <value>51</value>
+  </p>
+
+  <p>
+    <name>2453 MHz</name>
+    <value>53</value>
+  </p>
+
+  <p>
+    <name>2455 MHz</name>
+    <value>55</value>
+  </p>
+
+  <p>
+    <name>2457 MHz</name>
+    <value>57</value>
+  </p>
+
+  <p>
+    <name>2459 MHz</name>
+    <value>59</value>
+  </p>
+
+  <p>
+    <name>2461 MHz</name>
+    <value>61</value>
+  </p>
+
+  <p>
+    <name>2463 MHz</name>
+    <value>63</value>
+  </p>
+
+  <p>
+    <name>2465 MHz</name>
+    <value>65</value>
+  </p>
+
+  <p>
+    <name>2467 MHz</name>
+    <value>67</value>
+  </p>
+
+  <p>
+    <name>2469 MHz</name>
+    <value>69</value>
+  </p>
+
+  <p>
+    <name>2471 MHz</name>
+    <value>71</value>
+  </p>
+
+  <p>
+    <name>2473 MHz</name>
+    <value>73</value>
+  </p>
+
+  <p>
+    <name>2475 MHz</name>
+    <value>75</value>
+  </p>
+
+  <p>
+    <name>2477 MHz</name>
+    <value>77</value>
+  </p>
+
+  <p>
+    <name>2479 MHz</name>
+    <value>79</value>
+  </p>
+
+  <p>
+    <name>2481 MHz</name>
+    <value>81</value>
+  </p>
+</parameter>
+
+
